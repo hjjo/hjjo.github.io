@@ -2,131 +2,49 @@
 layout: default
 ---
 
-# Profile and Key Skills
+## Profile and Key Skills
+***
+- Fullstack Software Engineer at SAP
+- Specialized in Web application development and Cloud services
+- Proven fast-learner with solid technical aptitude
+- Programming Languages : Java, javascript
 
-# Professional Experience and Key Assignments
+## Professional Experience and Key Assignments
+***
 
-# Educational Qualification
-| Ewha Woman's University, South Korea            | Mar 2006 to Feb 2010 |
-|:------------------------------------------------|:---------------------|
-| Bachelor's Degree in Computer Science           |                      |
+|SAP - Toolings : Componentized Reporting and Issue Tracking | | JUL 2020 to Jan 2021 |
+|:-----------------------------------------------------------|-|---------------------:|
+|Team Lead                                                   | |                      |
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+|SAP - Componentized Reporting                    | | Jan 2020 to Jan 2021 |
+|:------------------------------------------------|-|---------------------:|
+|Fullstack Software Engineer                      | |                      |
 
-[Link to another page](./another-page.html).
+|SAP - In-house CI Tooling                        | | Mar 2018 to Dec 2019 |
+|:------------------------------------------------|-|---------------------:|
+|Fullstack Software Engineer                      | |                      |
 
-There should be whitespace between paragraphs.
+|IBM - Developer Advocacy Activities              | | Jan 2017 to Feb 2018 |
+|:------------------------------------------------|-|---------------------:|
+|Developer Advocate for Watson                    | |                      |
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+- Organized [monthly hands-on sessions](https://www.meetup.com/IBM- developerWorks-Meetup/) and responsible for Watson as a speaker.
+- Created or translated [technical articles](https://developer.ibm.com/kr/author/hjjo) on IBM developerWorks and [own tutorials](https://github.com/hjjo/chatbot-sample).
+- Supported both general developers and students with their technical issues and inquiries on IBM Products(IBM Cloud, Watson).
+- Participated in IBM owned big event(IBM DevCon 2017) and various external events as
+a speaker.
 
-# Header 1
+|IBM - Mobile Platform                            | | Dec 2010 to Dec 2011 |
+|:------------------------------------------------|-|---------------------:|
+|Software Engineer for Mobile                     | |                      |
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- Responsible for the cllient side development of SPoSA(Smart Phone oriented Service Architecture) as a mobile platform which functioned as device management, user management, contents management, application management, push notification, legacy connector, etc.
+- Used android native language and cordova
+- Delivered to E-mart(retail), GS Caltax(retail), Amore Pacific(cosmetics) in Korea and some clients in Taiwan
 
-## Header 2
+## Educational Qualification
+***
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+| Ewha Woman's University, South Korea            | | Mar 2006 to Feb 2010 |
+|:------------------------------------------------|-|---------------------:|
+| Bachelor's Degree in Computer Science           | |                      |
