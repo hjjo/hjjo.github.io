@@ -8,8 +8,8 @@ layout: default
 
 # Educational Qualification
 | Ewha Woman's University, South Korea            | Mar 2006 to Feb 2010 |
-|:-------------|:------------------|:------|
-| Bachelor's Degree in Computer Science           | |
+|:------------------------------------------------|:---------------------|
+| Bachelor's Degree in Computer Science           |                      |
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
