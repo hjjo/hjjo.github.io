@@ -7,7 +7,8 @@ layout: default
 - Fullstack Software Engineer at SAP
 - Specialized in Web application development and Cloud technologies
 - Proven fast-learner with solid technical aptitude
-- Programming Languages/Frameworks : javascript(Node.js, typescript, Vue.js), java(Spring MVC, EJB)
+- Programming Languages/Frameworks : javascript(Node.js, typescript, Vue.js, Jest), java(Spring MVC, EJB)
+- Others : Jenkins pipeline, docker container
 
 ## Professional Experience and Key Assignments
 ***
