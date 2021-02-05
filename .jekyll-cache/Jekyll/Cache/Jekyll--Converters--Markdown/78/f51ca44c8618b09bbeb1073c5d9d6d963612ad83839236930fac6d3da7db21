@@ -1,0 +1,368 @@
+I"1/<h2 id="profile-and-key-skills">Profile and Key Skills</h2>
+<hr />
+<ul>
+  <li>Fullstack Software Engineer at SAP</li>
+  <li>Specialized in Web application development and Cloud technologies</li>
+  <li>Proven fast-learner with solid technical aptitude</li>
+  <li>Programming Languages/Frameworks : javascript(Node.js, typescript, Vue.js), java(Spring MVC, EJB)</li>
+</ul>
+
+<h2 id="professional-experience-and-key-assignments">Professional Experience and Key Assignments</h2>
+<hr />
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">SAP - Toolings : Componentized Reporting and Issue Tracking</th>
+      <th> </th>
+      <th style="text-align: right">JUL 2020 to Jan 2021</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Team Lead</td>
+      <td> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">SAP - Componentized Reporting</th>
+      <th> </th>
+      <th style="text-align: right">Jan 2020 to Jan 2021</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Fullstack Software Engineer</td>
+      <td> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">SAP - In-house CI Tooling</th>
+      <th> </th>
+      <th style="text-align: right">Mar 2018 to Dec 2019</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Fullstack Software Engineer</td>
+      <td> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">IBM - Developer Advocacy Activities</th>
+      <th> </th>
+      <th style="text-align: right">Jan 2017 to Feb 2018</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Developer Advocate for Watson</td>
+      <td> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>Organized <a href="https://www.meetup.com/IBM- developerWorks-Meetup/">monthly hands-on sessions</a> and responsible for Watson as a speaker</li>
+  <li>Created or translated <a href="https://developer.ibm.com/kr/author/hjjo">technical articles</a> on IBM developerWorks and <a href="https://github.com/hjjo/chatbot-sample">own tutorials</a></li>
+  <li>Supported both general developers and students with their technical issues and inquiries on IBM Products(IBM Cloud, Watson)</li>
+  <li>Participated in IBM owned big event(IBM DevCon 2017) and various external events as
+a speaker</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">IBM - Demo Cloud Portal development</th>
+      <th> </th>
+      <th style="text-align: right">Jul 2016 to Dec 2016</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Fullstack Software Engineer</td>
+      <td> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>Software Engineer responsible for the design and development of the demo cloud portal for IBM AP Client Centre</li>
+  <li>Involved in the full development lifecycle from Requirements gathering, Design, Develop and Test</li>
+  <li>Involved in full stack development, used AngularJS for Front end and Java Spring Framework for Back end services</li>
+  <li>Used docker container and established continuous delivery during the project</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">IBM - IAAS Cloud Console Development for SK</th>
+      <th> </th>
+      <th style="text-align: right">Jan 2016 to Jun 2016</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Fullstack Software Engineer</td>
+      <td> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>Engineer responsible for the design and development of the order process and management functions for Storage and the complete end to end order management system</li>
+  <li>Involved in the full development lifecycle from Requirements gathering, Design, Develop and Test</li>
+  <li>Estabilshed <a href="https://www.cloudz.co.kr/">multi cloud portal</a> providing virtual environments to organizations and individual customers with easy and instinct UI/UX</li>
+  <li>Used Java Spring, MyBatis and Oracle DB for Back end and Spring MVC, Bootstrap, jQeury for Front end</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">IBM - Web Accessibility Project for Korean Air</th>
+      <th> </th>
+      <th style="text-align: right">Oct 2015 to Dec 2015</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Technical advisor</td>
+      <td> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>Engineer responsible for web technologies and web accessibility for <a href="https://kr.koreanair.com/global/ko.html">Korean Air Website</a></li>
+  <li>Involved in Requirements Analysis, Development Guidance and Problem Solving</li>
+  <li>Enable the disabled to use website with tools like JAWS and NVDA by development
+complying with the Web Accessibility Initiative(WAI)</li>
+  <li>Achieved complete satisfaction of the client</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">IBM - IBM Cloud and IoT Trainer</th>
+      <th> </th>
+      <th style="text-align: right">Aug 2015 to Sep 2015</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Trainer</td>
+      <td> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>Trainer for IBM Cloud and IoT Foundation to enable founders “to be” and university students to be familiar with cloud platforms and develop in cloud environments</li>
+  <li>Educated concepts, architectures, advantiges of cloud platforms and hands on training</li>
+  <li>Cloud and IoT sessions for students (5d, 2015.8) - <a href="http://news.joins.com/article/18530014">Related article</a></li>
+  <li>Busan Center for Creative Economy &amp; Innovation - Cloud/IoT Hands-on Session (2d, 2015.9)</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">IBM - Innovation Solution Development</th>
+      <th> </th>
+      <th style="text-align: right">May 2015 to Sep 2015</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Software Engineer</td>
+      <td> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>Responsible for the development of multiple customized iOS applications that detect and engage Banking customers leveraging on iBeacon and sensor technology</li>
+  <li>Utilized Bluemix cloudant and analytics, worklight server and messaging gateway to deliver on the Use case requirements</li>
+  <li>Gathered requirements, created functional design, conducted testing and deployed from development to production</li>
+  <li>The solution capability was designed for banks to engage customers and empower banking employees as well as integrate with external applications</li>
+  <li>The solution demo received positive responses from clients and has been demonstrated at Sales Academies, Business Partner Events, IBM client events and specific client theme briefings</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">IBM - Smart Office Project for IBM Korea</th>
+      <th> </th>
+      <th style="text-align: right">Jan 2015 to Apr 2015</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Software Engineer</td>
+      <td> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>Responsible for the development of desk reservation system and meeting room reservation system for IBM Korea</li>
+  <li>Involved in Design, Develop, Test, Deployment and post production support</li>
+  <li>Utilized resources by easy reservation process and auto cancelation by sensor
+detection</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">IBM - Smart Work Framework Project with SK Telecom</th>
+      <th> </th>
+      <th style="text-align: right">Apr 2014 to Nov 2014</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Software Engineer</td>
+      <td> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>Software Engineer responsible for integration of IBM Worklight and products of SK Telecom</li>
+  <li>Involved in API development leveraging MAF(Mobile Application Framework), Eclipse Plugin development</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">IBM - MAF(Mobile Application Framework)</th>
+      <th> </th>
+      <th style="text-align: right">Apr 2014 to Nov 2014</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Software Engineer</td>
+      <td> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>Designed and developed a Mobile Application Framework to accelerate development of hybrid web mobile applications helping developers to develop with MVC model and Responsive Web Design</li>
+  <li>Developed using backbone, jQuery, bootstrap and handlebar</li>
+  <li>Won new project described as “Smart Work Framework Project with SK Telecom”
+above</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">IBM - Big data showcase</th>
+      <th> </th>
+      <th style="text-align: right">Mar 2013 to Aug 2013</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Software Engineer</td>
+      <td> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>Responsible together with my team to develop an application that analyzed and processed data and delivered data visualization models of targeted complex malls and department stores</li>
+  <li>Used open products such as Solr, Hadoop and R and I was responsible for data visualization and data indexing using Solr focused on how users can understand data easily, instinctively and with interest</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">IBM - MDM(Mobile Device Management)</th>
+      <th> </th>
+      <th style="text-align: right">Jan 2012 to Aug 2012</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Software Engineer for Mobile</td>
+      <td> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>Responsible for the development of the MDM(Mobile Device Management) for enterprise companies</li>
+  <li>Used android native language, javascript with dojo</li>
+  <li>Delivered to Amore Pacific(cosmetics), and E-mart(retail)</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">IBM - Mobile Platform</th>
+      <th> </th>
+      <th style="text-align: right">Dec 2010 to Dec 2011</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Software Engineer for Mobile</td>
+      <td> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>Responsible for the cllient side development of SPoSA(Smart Phone oriented Service Architecture) as a mobile platform which functioned as device management, user management, contents management, application management, push notification, legacy connector, etc</li>
+  <li>Used android native language and cordova</li>
+  <li>Delivered to E-mart(retail), GS Caltax(retail), Amore Pacific(cosmetics) in Korea and some clients in Taiwan</li>
+</ul>
+
+<h2 id="educational-qualification">Educational Qualification</h2>
+<hr />
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Ewha Woman’s University, South Korea</th>
+      <th> </th>
+      <th style="text-align: right">Mar 2006 to Feb 2010</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Bachelor’s Degree in Computer Science</td>
+      <td> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+  </tbody>
+</table>
+:ET
