@@ -8,7 +8,7 @@ layout: default
 - Specialized in Web application development and Cloud technologies
 - Proven fast-learner with solid technical aptitude
 - Programming Languages/Frameworks : javascript(Node.js, typescript, Vue.js, Jest), java(Spring MVC, EJB)
-- Others : Jenkins pipeline, docker container, Sentry, Graphana
+- Others : Jenkins pipeline, docker container, Sentry, Grafana
 
 ## Professional Experience and Key Assignments
 ***
