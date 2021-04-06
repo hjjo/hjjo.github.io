@@ -15,16 +15,16 @@ layout: default
 
 |SAP - Cloud release and deployment of SAP HANA    | | Apr 2021 to now |
 |:-------------------------------------------------|-|----------------:|
-|Project Lead and Software Engineer         | |                 |
+|Project Lead and Software Engineer                | |                 |
 
 - Responsible for project management, roadmap planning, requirement handling and communication with stakeholders/users
 - Authentication/Authorization to protect customer data and access/permission management
 - Vue for fontend and typescript/graphql for backend
 - Flyway for version control of the database schema
 
-|SAP - Componentized Reporting                        | | Jan 2020 to Mar 2021 |
-|:----------------------------------------------------|-|---------------------:|
-|Project Lead and Software Engineer            | |                      |
+|SAP - Componentized Quality Management of large project   | | Jan 2020 to Mar 2021 |
+|:---------------------------------------------------------|-|---------------------:|
+|Project Lead and Software Engineer                        | |                      |
 
 - Responsible for project management, roadmap planning and communication with stakeholders/users
 - Design and develop a web application by refactoring an existing system to be scalable, general and easy-maintainable
