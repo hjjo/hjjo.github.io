@@ -15,7 +15,7 @@ layout: default
 
 |SAP - Cloud release and deployment of SAP HANA    | | Apr 2021 to now |
 |:-------------------------------------------------|-|----------------:|
-|Technical Team Lead and Software Engineer         | |                 |
+|Project Lead and Software Engineer         | |                 |
 
 - Responsible for project management, roadmap planning, requirement handling and communication with stakeholders/users
 - Authentication/Authorization to protect customer data and access/permission management
@@ -24,11 +24,11 @@ layout: default
 
 |SAP - Componentized Reporting                        | | Jan 2020 to Mar 2021 |
 |:----------------------------------------------------|-|---------------------:|
-|Technical Team Lead and Software Engineer            | |                      |
+|Project Lead and Software Engineer            | |                      |
 
 - Responsible for project management, roadmap planning and communication with stakeholders/users
 - Design and develop a web application by refactoring an existing system to be scalable, general and easy-maintainable
-- HDI feature of the SAP HANA for version control of the database schema
+- Used HDI feature of the SAP HANA for version control of the database schema
 - Old application - SAP UI5, Node.js
 - Refactored application - React, Node.js and TypeOrm
 
@@ -37,6 +37,7 @@ layout: default
 |Fullstack Software Engineer                      | |                      |
 
 - Responsible for frontend and api development of In-house CI service
+- Componentized general UI components leveraging fundamental-vue or developing from scratch
 - Vue for frontend, python for backend
 - sqlalchemy for ORM and version control of the database schema
 - Estabilished ci/cd pipeline of the project using jenkins and terraform
