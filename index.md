@@ -8,22 +8,38 @@ layout: default
 - Specialized in Web application development and Cloud technologies
 - Proven fast-learner with solid technical aptitude
 - Programming Languages/Frameworks : javascript(Node.js, typescript, Vue.js, Jest), java(Spring MVC, EJB)
-- Others : Jenkins pipeline, docker container
+- Others : Jenkins pipeline, docker container, Sentry, Graphana
 
 ## Professional Experience and Key Assignments
 ***
 
-|SAP - Toolings : Componentized Reporting and Issue Tracking | | JUL 2020 to Jan 2021 |
-|:-----------------------------------------------------------|-|---------------------:|
-|Team Lead                                                   | |                      |
+|SAP - Cloud release and deployment of SAP HANA    | | Apr 2021 to now |
+|:-------------------------------------------------|-|----------------:|
+|Technical Team Lead and Software Engineer         | |                 |
 
-|SAP - Componentized Reporting                    | | Jan 2020 to Jan 2021 |
-|:------------------------------------------------|-|---------------------:|
-|Fullstack Software Engineer                      | |                      |
+- Responsible for project management, roadmap planning, requirement handling and communication with stakeholders/users
+- Authentication/Authorization to protect customer data and access/permission management
+- Vue for fontend and typescript/graphql for backend
+- Flyway for version control of the database schema
+
+|SAP - Componentized Reporting                        | | Jan 2020 to Mar 2021 |
+|:----------------------------------------------------|-|---------------------:|
+|Technical Team Lead and Software Engineer            | |                      |
+
+- Responsible for project management, roadmap planning and communication with stakeholders/users
+- Design and develop a web application by refactoring an existing system to be scalable, general and easy-maintainable
+- HDI feature of the SAP HANA for version control of the database schema
+- Old application - SAP UI5, Node.js
+- Refactored application - React, Node.js and TypeOrm
 
 |SAP - In-house CI Tooling                        | | Mar 2018 to Dec 2019 |
 |:------------------------------------------------|-|---------------------:|
 |Fullstack Software Engineer                      | |                      |
+
+- Responsible for frontend and api development of In-house CI service
+- Vue for frontend, python for backend
+- sqlalchemy for ORM and version control of the database schema
+- Estabilished ci/cd pipeline of the project using jenkins and terraform
 
 |IBM - Developer Advocacy Activities              | | Jan 2017 to Feb 2018 |
 |:------------------------------------------------|-|---------------------:|
@@ -42,7 +58,8 @@ a speaker
 - Software Engineer responsible for the design and development of the demo cloud portal for IBM AP Client Centre
 - Involved in the full development lifecycle from Requirements gathering, Design, Develop and Test
 - Involved in full stack development, used AngularJS for Front end and Java Spring Framework for Back end services
-- Used docker container and established continuous delivery during the project
+- Used nginx for reverse proxy to manage access of the asset
+- Used docker container and established continuous delivery using IBM UrbanCode during the project
 
 |IBM - IAAS Cloud Console Development for SK        | | Jan 2016 to Jun 2016 |
 |:--------------------------------------------------|-|---------------------:|
