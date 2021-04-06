@@ -59,7 +59,7 @@ a speaker
 - Software Engineer responsible for the design and development of the demo cloud portal for IBM AP Client Centre
 - Involved in the full development lifecycle from Requirements gathering, Design, Develop and Test
 - Involved in full stack development, used AngularJS for Front end and Java Spring Framework for Back end services
-- Used nginx for reverse proxy to manage access of the asset
+- Used reverse proxy of nginx for access management of the demo assets
 - Used docker container and established continuous delivery using IBM UrbanCode during the project
 
 |IBM - IAAS Cloud Console Development for SK        | | Jan 2016 to Jun 2016 |
